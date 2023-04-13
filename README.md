@@ -52,6 +52,7 @@ You can contact me on:
 <a href="https://github.com/RuiRajao/RuiRajao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruirajao&hide=html,Dockerfile,text,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2&hide_progress=true" />
 </a>
+<br>
 <a href="https://github.com/RuiRajao/RuiRajao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruirajao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rui's GitHub Stats" />
 </a>
